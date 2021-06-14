@@ -1,0 +1,15 @@
+#home {
+    height: 400px;
+    position: relative;
+}
+
+#quote {
+    height: 90px;
+}
+
+.hero-intro {
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
